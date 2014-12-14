@@ -1,4 +1,4 @@
-issues
+LiveStyle issue
 ======
 
-Report all your LivesStyle issues here
+Please report all LiveStyle [here](/issues/). Don’t forget to use proper labels.
